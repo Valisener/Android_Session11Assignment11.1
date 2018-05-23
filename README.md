@@ -1,4 +1,5 @@
 # Android_Session11Assignment11.1
+# Android_Session11Assignment11.1 Description Eleventh Assignment For Acadgild Android Development
 
 
 A It is designed to manage the database creation and version management, It takes care of opening the database if it finds one, if not it creates the database, upgrades the database when it is needed. Helps maintain the database as well over all a very useful class for database usage.
